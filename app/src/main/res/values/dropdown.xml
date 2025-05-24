@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cate_array">
+        <item>Fruits</item>
+        <item>Grains</item>
+        <item>Vegetables</item>
+        <item>Meat and Fish</item>
+        <item>Snacks</item>
+        <item>Dairy and Oil</item>
+        <item>Beverages</item>
+    </string-array>
+</resources>

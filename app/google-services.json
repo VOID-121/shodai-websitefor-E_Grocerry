@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919489755731",
+    "firebase_url": "https://shodai-121-default-rtdb.firebaseio.com",
+    "project_id": "shodai-121",
+    "storage_bucket": "shodai-121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919489755731:android:3edb74f27bd9b9d63da4a6",
+        "android_client_info": {
+          "package_name": "com.example.ebazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919489755731-4r3u8vos0ga4s7d6hnara51r3dut16vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1_emgA4vhMSLeNTdK_8fV4qNvqzT9bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919489755731-4r3u8vos0ga4s7d6hnara51r3dut16vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
